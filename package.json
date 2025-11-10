@@ -1,12 +1,12 @@
 {
-  "name": "GLOBAL BUG",
+  "name": "globalbot",
   "version": "9.5.0",
   "description": "base",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "GlobalTechInfo",
+  "author": "maTechInfo",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@6.7.7",
